@@ -1,0 +1,11 @@
+/home/ubuntu/substrate-node-template/target/release/deps/sc_transaction_pool-2de34ce549a91877.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/api.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/revalidation.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/metrics.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/error.rs
+
+/home/ubuntu/substrate-node-template/target/release/deps/libsc_transaction_pool-2de34ce549a91877.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/api.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/revalidation.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/metrics.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/error.rs
+
+/home/ubuntu/substrate-node-template/target/release/deps/sc_transaction_pool-2de34ce549a91877.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/api.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/revalidation.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/metrics.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/error.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/api.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/revalidation.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/metrics.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.0/src/error.rs:

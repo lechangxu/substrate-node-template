@@ -1,0 +1,9 @@
+/home/ubuntu/substrate-node-template/target/debug/deps/libparity_scale_codec_derive-e8489fb6a8aa420d.so: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/decode.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/encode.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/utils.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/trait_bounds.rs
+
+/home/ubuntu/substrate-node-template/target/debug/deps/parity_scale_codec_derive-e8489fb6a8aa420d.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/decode.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/encode.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/utils.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/trait_bounds.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/decode.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/encode.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/utils.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.1/src/trait_bounds.rs:

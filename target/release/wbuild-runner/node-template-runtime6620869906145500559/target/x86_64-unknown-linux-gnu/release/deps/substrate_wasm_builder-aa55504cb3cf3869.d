@@ -1,0 +1,9 @@
+/home/ubuntu/substrate-node-template/target/release/wbuild-runner/node-template-runtime6620869906145500559/target/x86_64-unknown-linux-gnu/release/deps/substrate_wasm_builder-aa55504cb3cf3869.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/prerequisites.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/wasm_project.rs
+
+/home/ubuntu/substrate-node-template/target/release/wbuild-runner/node-template-runtime6620869906145500559/target/x86_64-unknown-linux-gnu/release/deps/libsubstrate_wasm_builder-aa55504cb3cf3869.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/prerequisites.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/wasm_project.rs
+
+/home/ubuntu/substrate-node-template/target/release/wbuild-runner/node-template-runtime6620869906145500559/target/x86_64-unknown-linux-gnu/release/deps/substrate_wasm_builder-aa55504cb3cf3869.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/prerequisites.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/wasm_project.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/prerequisites.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-2.0.1/src/wasm_project.rs:

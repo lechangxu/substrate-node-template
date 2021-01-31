@@ -1,0 +1,11 @@
+/home/ubuntu/substrate-node-template/target/debug/deps/sp_application_crypto-4fd6dc3965644003.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/ed25519.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/sr25519.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/ecdsa.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/traits.rs
+
+/home/ubuntu/substrate-node-template/target/debug/deps/libsp_application_crypto-4fd6dc3965644003.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/ed25519.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/sr25519.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/ecdsa.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/traits.rs
+
+/home/ubuntu/substrate-node-template/target/debug/deps/sp_application_crypto-4fd6dc3965644003.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/ed25519.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/sr25519.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/ecdsa.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/traits.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/ed25519.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/sr25519.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/ecdsa.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.0/src/traits.rs:

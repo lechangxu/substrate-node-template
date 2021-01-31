@@ -1,0 +1,1 @@
+{"rustc":8848005237622537231,"features":"[]","target":17853530548767768145,"profile":4339006351771724982,"path":2187169356422977678,"deps":[[2218133571688309479,"libc",false,5688883936260474139]],"local":[{"CheckDepInfo":{"dep_info":"x86_64-unknown-linux-gnu/release/.fingerprint/fs2-fd737ae14aa96d66/dep-lib-fs2"}}],"rustflags":[],"metadata":12320374548473623098,"config":0}
