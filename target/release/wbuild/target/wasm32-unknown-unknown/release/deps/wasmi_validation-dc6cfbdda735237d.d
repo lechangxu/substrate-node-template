@@ -1,0 +1,11 @@
+/home/ubuntu/substrate-node-template/target/release/wbuild/target/wasm32-unknown-unknown/release/deps/wasmi_validation-dc6cfbdda735237d.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/stack.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/context.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/func.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/util.rs
+
+/home/ubuntu/substrate-node-template/target/release/wbuild/target/wasm32-unknown-unknown/release/deps/libwasmi_validation-dc6cfbdda735237d.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/stack.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/context.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/func.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/util.rs
+
+/home/ubuntu/substrate-node-template/target/release/wbuild/target/wasm32-unknown-unknown/release/deps/wasmi_validation-dc6cfbdda735237d.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/stack.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/context.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/func.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/util.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/stack.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/context.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/func.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi-validation-0.3.0/src/util.rs:

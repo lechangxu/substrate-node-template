@@ -1,0 +1,12 @@
+/home/ubuntu/substrate-node-template/target/debug/deps/sp_trie-87376e333eeb9a0e.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/error.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/node_header.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/node_codec.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/storage_proof.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/trie_stream.rs
+
+/home/ubuntu/substrate-node-template/target/debug/deps/libsp_trie-87376e333eeb9a0e.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/error.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/node_header.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/node_codec.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/storage_proof.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/trie_stream.rs
+
+/home/ubuntu/substrate-node-template/target/debug/deps/sp_trie-87376e333eeb9a0e.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/error.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/node_header.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/node_codec.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/storage_proof.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/trie_stream.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/error.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/node_header.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/node_codec.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/storage_proof.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-trie-2.0.0/src/trie_stream.rs:

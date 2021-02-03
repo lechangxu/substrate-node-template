@@ -1,0 +1,10 @@
+/home/ubuntu/substrate-node-template/target/debug/deps/jsonrpc_client_transports-deafde641d1fce57.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/mod.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/duplex.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/local.rs
+
+/home/ubuntu/substrate-node-template/target/debug/deps/libjsonrpc_client_transports-deafde641d1fce57.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/mod.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/duplex.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/local.rs
+
+/home/ubuntu/substrate-node-template/target/debug/deps/jsonrpc_client_transports-deafde641d1fce57.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/mod.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/duplex.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/local.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/mod.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/duplex.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/local.rs:
